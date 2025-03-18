@@ -1,0 +1,2 @@
+This is the first change to add from local directory to staging env
+I am doing a second change
